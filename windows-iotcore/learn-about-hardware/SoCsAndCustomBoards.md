@@ -150,6 +150,7 @@ You can also reach out to partners we're working with:
 
 If you find that you'd still like to create a custom board, we have provided a few suggestions of manufacturers below that can help with schematics and layout for a board.
 
+* [NextPCB](https://www.nextpcb.com/)
 * [All PCB](http://www.allpcb.com/)
 * [Geppetto/Gumstix](https://www.gumstix.com/geppetto/)
 * [JLC PCB](https://jlcpcb.com/)
